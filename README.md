@@ -1,4 +1,4 @@
-# Extreme Weather Monitoring - SIH 26078
+# Extreme Weather Monitoring 
 
 ## 1. Problem
 Extreme weather anomalies (like extreme rainfall, cyclones) cause catastrophic damage. Medium-range forecasts have high uncertainty in location, intensity, and timing.
